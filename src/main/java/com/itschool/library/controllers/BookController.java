@@ -1,6 +1,7 @@
 package com.itschool.library.controllers;
 
 import com.itschool.library.models.dtos.BookDTO;
+import com.itschool.library.services.BookService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
