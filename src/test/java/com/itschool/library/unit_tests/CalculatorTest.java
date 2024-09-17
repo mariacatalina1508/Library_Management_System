@@ -1,7 +1,6 @@
-package com.itschool.library;
+package com.itschool.library.unit_tests;
 
 import com.itschool.library.utils.Calculator;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
